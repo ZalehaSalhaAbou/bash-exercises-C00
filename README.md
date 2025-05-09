@@ -1,1 +1,0 @@
-# bash-exercises-C00
